@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>951994520319-t2j6ofb0bfpala25ou7s4lhofrnl15v8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.951994520319-t2j6ofb0bfpala25ou7s4lhofrnl15v8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>951994520319-5dhv54hho8qou5b0op2rb0mng29gn3pi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbogLcDqI27vAQo4eeJZ38FGSmxmvHjoI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>951994520319</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>inellipse.CustomRegistrationApp</string>
+	<key>PROJECT_ID</key>
+	<string>pictale-8ede2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pictale-8ede2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:951994520319:ios:3db4e545777338e42432ca</string>
+	<key>DATABASE_URL</key>
+	<string>https://pictale-8ede2-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

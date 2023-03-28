@@ -1,0 +1,12 @@
+//
+//  jwtRequestRefreshToken.swift
+//  CustomRegistrationApp
+//
+//  Created by Ana Gramatkovska on 3.2.23.
+//
+
+import Foundation
+//
+struct jwtRequestRefreshToken{
+    static let refreshToken = " "
+}
